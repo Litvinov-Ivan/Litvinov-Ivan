@@ -4,6 +4,13 @@
 - Изучаю data science.
 - Программированием впервые занялся работая над численным моделированием физических процессов в авиационной технике и разработкой сервиса по автоматизации workflow.
 - Имею инженерный бэкграунд, закончил МГТУ им. Н.Э. Баумана.
+- Готов к сотрудничеству!
+<div align="center">
+  
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Ivan_Litvinov_92)</a>
+  <a href="">[![VK](https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge)](https://vk.com/ivan_litvinov)</a>
+
+</div>
 
 ### Стек
 
