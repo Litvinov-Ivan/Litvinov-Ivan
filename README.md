@@ -36,4 +36,4 @@
 |----------------|-----------------|-----------|
 |[Рекомендационная система ленты новостей в соцсети](https://github.com/Litvinov-Ivan/posts-feed-recsys)|Сервис по выдаче персональной ленты новостей в соцсети|Pandas, catboost, gensim, FastAPI, SQLAlchemy, Docker, A\B-тестирование |
 |[Оценка стоимости автомобиля](https://github.com/Litvinov-Ivan/CarValuationService)|Сервис, оценивающий рыночную стоимость автомобиля по его данным|Pandas, catboost, gensim, FastAPI, grafana, locust, Docker|
-|[Численное моделирование колебательного контура](https://github.com/Litvinov-Ivan/lc_oscillator_model)|Сравнение численных методов при моделировании модели гармонического контура|numpy, matplotlib|
+|[Численное моделирование колебательного контура](https://github.com/Litvinov-Ivan/lc_oscillator_model)|Сравнение численных методов при моделировании гармонического контура|numpy, matplotlib|
