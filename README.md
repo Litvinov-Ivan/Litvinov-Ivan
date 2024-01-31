@@ -4,7 +4,7 @@
 - Изучаю data science.
 - Программированием впервые занялся работая над численным моделированием физических процессов в авиационной технике и разработкой сервиса по автоматизации workflow.
 - Имею инженерный бэкграунд, закончил МГТУ им. Н.Э. Баумана.
-- Готов к сотрудничеству!
+
 <div align="center">
   
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Ivan_Litvinov_92)</a>
@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original-wordmark.svg" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-plain-wordmark.svg" height="50">&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5486/5486426.png" width="50" height="50">&nbsp;
-<img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" height="50">&nbsp;
+<img src="https://github.com/Litvinov-Ivan/Litvinov-Ivan/assets/84906946/0bb6fe61-2828-4b26-979b-9ec3f54de370" height="50">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"  height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg"  height="50">&nbsp;
